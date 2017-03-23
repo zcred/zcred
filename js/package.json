@@ -1,0 +1,28 @@
+{
+  "name": "zcred",
+  "version": "0.0.0",
+  "description": "A modern authoriZation-centric credential format",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcred/zcred.git"
+  },
+  "keywords": [
+    "authorization",
+    "credential",
+    "token",
+    "authentication"
+  ],
+  "author": "Tony Arcieri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zcred/zcred/issues"
+  },
+  "homepage": "https://github.com/zcred/zcred#readme",
+  "dependencies": {
+    "mocha": "^3.1.2"
+  }
+}
