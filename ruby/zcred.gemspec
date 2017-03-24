@@ -12,8 +12,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["bascule@gmail.com"]
   spec.licenses      = ["MIT"]
   spec.homepage      = "https://github.com/zcred/zcred/tree/master/ruby/"
-  spec.summary       = "A modern authoriZation-centric credential format"
-  spec.description   = "Flexible modern credential format built on advanced cryptography"
+  spec.summary       = "Modern authoriZation-centric credential format"
+  spec.description   = "Modern authoriZation-centric credential format, ala SPKI/SDSI, Macaroons, and Vanadium"
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
   spec.bindir        = "exe"
   spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }

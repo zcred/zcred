@@ -1,7 +1,7 @@
 {
   "name": "zcred",
   "version": "0.0.0",
-  "description": "A modern authoriZation-centric credential format",
+  "description": "Modern authoriZation-centric credential format, ala SPKI/SDSI, Macaroons, and Vanadium",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec"
