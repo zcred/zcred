@@ -9,7 +9,6 @@
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg
 [license-link]: https://github.com/zcred/zcred/blob/master/LICENSE.txt
 
-
 Nothing to see here yet. Check out [zser] for initial work on the zcred format.
 
 [zser]: https://github.com/zcred/zser

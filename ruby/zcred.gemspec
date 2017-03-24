@@ -8,8 +8,6 @@ Gem::Specification.new do |spec|
   spec.version       = Zcred::VERSION
   spec.authors       = ["Tony Arcieri"]
   spec.email         = ["bascule@gmail.com"]
-  spec.authors       = ["Tony Arcieri"]
-  spec.email         = ["bascule@gmail.com"]
   spec.licenses      = ["MIT"]
   spec.homepage      = "https://github.com/zcred/zcred/tree/master/ruby/"
   spec.summary       = "A modern authoriZation-centric credential format"
