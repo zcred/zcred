@@ -17,20 +17,14 @@ Nothing to see here yet. Check out [zser] for initial work on the zcred format.
 
 Packages implementing zser are available for the following languages:
 
-| Language               | Version                              | Status         |
-|------------------------|--------------------------------------|----------------|
-| [JavaScript][npm-link] | [![npm][npm-shield]][npm-link]       | :broken_heart: |
-| [Ruby][gem-link]       | [![gem][gem-shield]][gem-link]       | :broken_heart: |
-| [Rust][crate-link]     | [![crate][crate-shield]][crate-link] | :broken_heart: |
+| Language               | Version                              |
+|------------------------|--------------------------------------|
+| [Go][go-link]          | N/A                                  |
+| [JavaScript][npm-link] | [![npm][npm-shield]][npm-link]       |
+| [Ruby][gem-link]       | [![gem][gem-shield]][gem-link]       |
+| [Rust][crate-link]     | [![crate][crate-shield]][crate-link] |
 
-**Status Legend**
-
-| Heart          | Description              |
-|----------------|--------------------------|
-| :green_heart:  | Stable and full-featured |
-| :yellow_heart: | Working with some issues |
-| :broken_heart: | Not yet usable           |
-
+[go-link]: https://github.com/zcred/zcred/tree/master/go
 [npm-shield]: https://img.shields.io/npm/v/zcred.svg
 [npm-link]: https://www.npmjs.com/package/zcred
 [gem-shield]: https://badge.fury.io/rb/zcred.svg

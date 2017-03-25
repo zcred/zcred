@@ -6,6 +6,8 @@ script: ./ci.sh
 matrix:
   fast_finish: true
   include:
+  - env: SUITE="go"
+    language: go
   - env: SUITE="js"
     language: node_js
   - env: SUITE="ruby"
