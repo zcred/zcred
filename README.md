@@ -21,12 +21,15 @@ Packages implementing zser are available for the following languages:
 |------------------------|--------------------------------------|
 | [Go][go-link]          | N/A                                  |
 | [JavaScript][npm-link] | [![npm][npm-shield]][npm-link]       |
+| [Python][pypi-link]    | [![pypi][pypi-shield]][pypi-link]    |
 | [Ruby][gem-link]       | [![gem][gem-shield]][gem-link]       |
 | [Rust][crate-link]     | [![crate][crate-shield]][crate-link] |
 
 [go-link]: https://github.com/zcred/zcred/tree/master/go
 [npm-shield]: https://img.shields.io/npm/v/zcred.svg
 [npm-link]: https://www.npmjs.com/package/zcred
+[pypi-shield]: https://img.shields.io/pypi/v/zcred.svg
+[pypi-link]: https://pypi.python.org/pypi/zcred/
 [gem-shield]: https://badge.fury.io/rb/zcred.svg
 [gem-link]: https://rubygems.org/gems/zcred
 [crate-shield]: https://img.shields.io/crates/v/zcred.svg
